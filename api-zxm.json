@@ -1,5 +1,16 @@
 {
-    "sites": [
+    "lives": [
+        {
+            "type": 0,
+            "name": "蜗牛直播",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "url": "https://epg.877955.xyz/tvbox.php",
+            "epg": "https://epg.877955.xyz/epg.php?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
+	"sites": [
         {
            "key": "drpy_js_豆瓣",
            "name": "🔥聚玩盒子4K",
@@ -1469,17 +1480,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }
-    ],
-    "lives": [
-        {
-            "type": 0,
-            "name": "woniutv",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "url": "https://epg.877955.xyz/tvbox.php",
-            "epg": "https://epg.877955.xyz/epg.php?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
     "parses": [],
